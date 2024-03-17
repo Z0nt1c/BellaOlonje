@@ -1,0 +1,261 @@
+body {
+    margin: 0;
+}
+    
+.bella-container {
+    margin: 26px 70px;
+}
+
+.bella-line {
+    display: flex;
+    justify-content: space-around;
+}
+
+.h-items {
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+    font-weight: 600;
+    margin-right: 94px;
+}
+
+.h-itemsss {
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+    font-weight: 600;
+    
+}
+
+.h-itemss {
+    color: rgba(250, 74, 12, 1);
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    margin-right: 94px;
+}
+
+.head-item{
+    padding-top: 53px;
+    justify-content: space-around;
+}
+
+.b-img {
+    width: 246px;
+    height: 100px;
+}
+
+
+.body-block {
+    background-image: url(bg-bella.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    color: #F6F6F6;
+    padding-top: 70px;
+}
+
+.sub-title {
+    font-weight: 700;
+    font-size: 58px;
+    color: #fff;
+    text-align: center;
+    padding-top: 17px;
+    padding-bottom: 17px;
+}
+
+.st {
+    text-align: center;
+    color: #F6F6F6;
+    font-size: 24px;
+    width: 500;
+    padding-top: 17px;
+}
+
+.btn-1 {
+    background-color: #ff6200;
+    color: #FFF;
+    padding: 16px 0px;
+    border-radius: 30px;
+    width: 150px;
+    font-size: 24px;
+    text-align: center;
+    align-items: center;
+}
+
+
+.btn-2 {
+    width: 150px;
+    padding: 16px 0px;
+    color: #FFF;
+    font-size: 24px;
+    border-radius: 30px;
+    border: 1px solid #FFF;
+    margin-left: 20px;
+}
+
+.all-btn {
+    margin-top: 20px;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 146px;
+}
+
+.phonse {
+    display: flex;
+    align-items: center;
+   
+}
+
+.phone-img-1 {
+    width: 599px;
+    height: 786px;
+    position: relative;
+    top: -250px;
+    left: 300px;
+    
+
+}
+
+.phone-img-2 {
+    width: 285px;
+    height: 531px;
+    position: absolute;
+    top: 600px;
+    left: 700px;
+}
+
+.line {
+    border-bottom: 3px solid rgba(228, 228, 228, 1);
+    margin-top: -250px;
+}
+
+.phone-title {
+    padding-top: 40px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 44px;
+    color: #000;
+}
+
+
+.info-1 {
+    display: flex;
+}
+
+.text-1 {
+    padding-top: 250px;
+    padding-bottom: 20px;
+    font-size: 24px;
+    font-weight: 700;
+    color: rgba(250, 74, 12, 1);
+
+}
+
+.text-2 {
+    padding-bottom: 20px;
+    font-size: 40px;
+    font-weight: 700;
+    color:#000;
+
+}
+
+.text-3 {
+    padding-bottom: 20px;
+    font-size: 24px;
+    font-weight: 700;
+    color: rgba(115, 115, 115, 1);
+
+
+}
+
+.container {
+    margin: 0px 166px;
+}
+
+.bg {
+    background-image: url(eeee.png);
+    background-size: cover;
+    background-repeat:no-repeat ;
+}
+
+.last-title {
+    font-size: 40px;
+    font-weight: 700;
+    color: #FFF;
+    padding-top: 140px;
+    text-align: center;
+}
+
+.last-subtitle {
+    font-size: 24px;
+    font-weight: 500;
+    color: #FFF;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.lbtn-1 {
+    color: #FFF;
+    background-color: #ff6200;
+    font-size: 16px;
+    font-weight: 700;
+    width: 150px;
+    margin-right: -1100px;
+    text-align: center;
+    padding: 16px 0px;
+    border-radius: 30px;
+}
+
+.lbtn-2 {
+    color: #FFF;
+    border: 1px solid #ffffff;
+    font-size: 16px;
+    font-weight: 700;
+    width: 149px;
+    text-align: center;
+    padding: 16px 0px;
+    border-radius: 30px;
+}
+
+.last-btn {
+    display: flex;
+    padding-top: 50px;
+    text-align: center;
+    align-items: center;
+    padding-bottom: 130px;
+    justify-content: space-around;
+}
+
+.foot-text {
+    padding-top: 102px;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.holder {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 50px;
+}
+
+.items {
+    padding-top: 84px;
+}
+
+.bell {
+    padding-top: 46px;
+    width: 250px;
+    height: 100px;
+}
+
+.uhuh {
+    margin-right: 20px;
+}
